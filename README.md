@@ -19,7 +19,7 @@ It allows users to add and delete tasks with optional date and time.
 
 | To-Do List UI | Database Table |
 |---------------|----------------|
-| ![UI](screenshots/ui.png)| ![DB](screenshots/db.png) |
+| ![UI](ui.png)| ![DB](db.png) |
 
 > Screenshots show how the app looks and how the database stores the tasks.
 
